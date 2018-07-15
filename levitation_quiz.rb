@@ -1,7 +1,7 @@
 
 def levitation_quiz
-	answer = ""
-	while answer 
+	loop do
+	  puts 
 end
 
 
